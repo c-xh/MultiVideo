@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="XXX设置"
+        android:textAlignment="center"
+        android:textSize="24sp" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="5dp"
+        android:background="#333333" />
+
+    <Button
+        android:id="@+id/Channel_Settings_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="通道设置"
+        android:layout_marginBottom="10dp"/>
+
+    <Button
+        android:id="@+id/holder_setting_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="云台设置"
+        android:layout_marginBottom="10dp"/>
+
+    <Button
+        android:id="@+id/Encoding_Setting_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="编码设置"
+        android:layout_marginBottom="10dp"/>
+</LinearLayout>

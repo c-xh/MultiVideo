@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="HolderAgreement">
+        <item>P_D</item>
+        <item>P_P</item>
+        <item>VISCA</item>
+    </string-array>
+    
+    <string-array name="SerialPort">
+        <item>RS485</item>
+        <item>RS232</item>
+    </string-array>
+    
+    <string-array name="Baud">
+        <item>9600</item>
+        <item>4800</item>
+        <item>2400</item>
+    </string-array>
+
+    <string-array name="HolderAddressCode">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="HolderPresetAddr">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>特大写</item>
+        <item>特写</item>
+        <item>近景</item>
+        <item>中景</item>
+        <item>远景</item>
+    </string-array>
+
+    <string-array name="DisplayMode">
+        <item>16:9</item>
+        <item>满屏</item>
+    </string-array>
+
+    <string-array name="DIP">
+        <item>1920*1080</item>
+        <item>1600*900</item>
+        <item>1280*900</item>
+        <item>1280*720</item>
+        <item>1024*768</item>
+    </string-array>
+
+    <string-array name="VideoCompressionMode">
+        <item>H.264</item>
+        <item>VC-1</item>
+    </string-array>
+
+    <string-array name="RateControl">
+        <item>CBR</item>
+        <item>VBR</item>
+    </string-array>
+
+    <string-array name="Rate">
+        <item>512</item>
+        <item>1204</item>
+        <item>2*1204</item>
+        <item>3*1204</item>
+        <item>5*1204</item>
+        <item>8*1204</item>
+        <item>10*1204</item>
+    </string-array>
+    <string-array name="VideoQuality">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="FPS">
+        <item>22</item>
+    </string-array>
+
+    <string-array name="I_Frame">
+        <item>10</item>
+        <item>25</item>
+        <item>30</item>
+        <item>40</item>
+        <item>60</item>
+        <item>120</item>
+    </string-array>
+</resources>
